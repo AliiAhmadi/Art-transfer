@@ -44,6 +44,7 @@ The models used are:
 |:-------------:|:-----------:|:------:|
 | ![content](images/1.jpg) | ![style](images/8.jpg) | ![output](images/9.jpg) |
 | ![content](images/2.jpg) | ![style](images/5.jpg) | ![output](images/10.png) |
+| ![content](images/4.jpg) | ![style](images/7.jpg) | ![output](images/11.jpg) |
 
 ## References
 
