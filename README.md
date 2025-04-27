@@ -41,4 +41,4 @@ The models used are:
 
 - [A Neural Algorithm of Artistic Style — Gatys et al. (2015)](https://arxiv.org/abs/1508.06576)
 - [PyTorch Transfer Learning Tutorial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
-- [Gatys_Image_Style_Transfer_CVPR_2016_paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+- [Gatys Image Style Transfer CVPR 2016 paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
