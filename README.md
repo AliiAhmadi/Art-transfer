@@ -42,7 +42,7 @@ The models used are:
 
 | Content Image | Style Image | Result |
 |:-------------:|:-----------:|:------:|
-| ![content](images/1.jpg) | ![style](images/2.jpg) | ![output](images/3.jpg) |
+| ![content](images/1.jpg) | ![style](images/8.jpg) | ![output](images/9.jpg) |
 
 ## References
 
