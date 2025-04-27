@@ -3,14 +3,14 @@
 This project demonstrates Neural Style Transfer, a method of creating a new image by combining the **content** of one image with the **style** of another, using deep learning.  
 It uses pretrained **VGG16** and **VGG19** convolutional neural networks to extract and blend features from two images. (Using **VGG16** and **VGG19** pretrained on **Imagenet** dataset)
 
+## Examples
 
-## Table of Contents
-
-- [About](#about)
-- [How It Works](#how-it-works)
-- [Examples](#examples)
-- [References](#references)
-
+| Content Image | Style Image | Result |
+|:-------------:|:-----------:|:------:|
+| ![content](images/1.jpg) | ![style](images/8.jpg) | ![output](images/9.jpg) |
+| ![content](images/2.jpg) | ![style](images/5.jpg) | ![output](images/10.png) |
+| ![content](images/4.jpg) | ![style](images/7.jpg) | ![output](images/11.jpg) |
+| ![content](images/3.jpg) | ![style](images/6.jpg) | ![output](images/12.jpg) |
 
 ## About
 
@@ -36,15 +36,6 @@ The models used are:
    - **Content Loss**: Mean squared error between content and target features.
    - **Style Loss**: Mean squared error between Gram matrices of style and target features.
 5. Optimize the target image to minimize the total loss.
-
-
-## Examples
-
-| Content Image | Style Image | Result |
-|:-------------:|:-----------:|:------:|
-| ![content](images/1.jpg) | ![style](images/8.jpg) | ![output](images/9.jpg) |
-| ![content](images/2.jpg) | ![style](images/5.jpg) | ![output](images/10.png) |
-| ![content](images/4.jpg) | ![style](images/7.jpg) | ![output](images/11.jpg) |
 
 ## References
 
