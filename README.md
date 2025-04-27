@@ -1,7 +1,7 @@
 # Art-Transfer: Neural Style Transfer using VGG16 and VGG19
 
 This project demonstrates Neural Style Transfer, a method of creating a new image by combining the **content** of one image with the **style** of another, using deep learning.  
-It uses pretrained **VGG16** and **VGG19** convolutional neural networks to extract and blend features from two images. (Using **VGG16** and **VGG19** pretrained on **Imagenet** dataset.)
+It uses pretrained **VGG16** and **VGG19** convolutional neural networks to extract and blend features from two images. (Using **VGG16** and **VGG19** pretrained on **Imagenet** dataset)
 
 
 ## Table of Contents
